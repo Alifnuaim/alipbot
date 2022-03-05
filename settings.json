@@ -1,0 +1,21 @@
+{
+    "self_mode": false,
+	"autobio": true,
+	"msg_connected": false,
+	"user_register": false,
+	"anti_delete" : false,
+	"anticall": false,
+	"auto_welcome_msg": true,
+	"auto_leave_msg": true,
+	"prefix": ".",
+	"language":"ind",
+	"ownerNumberr": "6281915605137",
+	"ownername": "ᴹᴿ᭄ Alif-Bot/Z ×፝֟͜×",
+	"botname":"Sad-BOT-z(",
+	"thumb":"thumbnail_1.jpg",
+	"thumbnail":"thumbnail_2_1.jpg",
+	"fakethumb":"thumbnail_1.jpg", 
+	"donasi":"donasi2.jpg",
+	"captionpay":"Ketik .owner dan chat owner saya utk mendapatkan list pembayaran",
+	"fake": " 「  Sad-BOT-z  」\nCreated By ᴹᴿ᭄ Alif-Bot/Zོ ×፝֟͜×"
+}
